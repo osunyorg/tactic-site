@@ -11,4 +11,8 @@
     target: "/"
     kind: blank
     children: []
+- title: Pourquoi nous le faisons ?
+  target: "/"
+  kind: blank
+  children: []
 
