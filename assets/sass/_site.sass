@@ -1,14 +1,16 @@
 @font-face
-	font-family: 'N27'
-    font-weight: normal
-	src: url('/assets/fonts/n27/n27-regular-webfont.eot')
-	src: url('/assets/fonts/n27/n27-regular-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/n27/n27-bold-regular.woff') format('woff'), url('/assets/fonts/n27/n27-regular-webfont.ttf') format('truetype'), url('n27-regular-webfont.svg#webfont') format('svg')
+	font-family: "N27"
+    font-display: "swap"
+    font-style: "normal"
+    font-weight: 400
+    src: url("/assets/fonts/n27/n27-regular-webfont.woff2") format("woff2"), url("/assets/fonts/n27/n27-regular-webfont.woff") format("woff")
 
 @font-face
-	font-family: 'N27'
-    font-weight: bold
-	src: url('/assets/fonts/n27/n27-bold-webfont.eot')
-	src: url('/assets/fonts/n27/n27-bold-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/n27/n27-bold-webfont.woff') format('woff'), url('/assets/fonts/n27/n27-bold-webfont.ttf') format('truetype'), url('n27-bold-webfont.svg#webfont') format('svg')
+	font-family: "N27"
+    font-display: "swap"
+    font-style: "normal"
+    font-weight: 700
+    src: url("/assets/fonts/n27/n27-bold-webfont.woff2") format("woff2"), url("/assets/fonts/n27/n27-bold-webfont.woff") format("woff")
 
 hr
     background: linear-gradient(90deg, #EAB849 0%, #44D3D3 100%)
@@ -17,6 +19,13 @@ hr
     background: linear-gradient(75.96deg, #EA5C1F 0%, #744BFB 100%)
 
 header[role="banner"]
+    .logo 
+        img
+            width: 200px
+            height: auto
     &.is-sticky
         .logo
             filter: invert(1)
+
+    .menu
+        font-weight: normal
