@@ -1,8 +1,3 @@
 posts:          /actualites/:year/:month/:day/:slug/
-categories:     /actualites/:slug/
-persons:        /equipe/:slug/
-organizations:  /tierces-parties/:slug/
-authors:        /equipe/:slug/actualites/
-diplomas:       /diplomes/:slug/
-teachers:       /equipe/:slug/programs/
-researchers:    /equipe/:slug/articles/
+persons:        /ce-que-nous-faisons/equipe/:slug/
+authors:        /ce-que-nous-faisons/equipe/:slug/actualites/
