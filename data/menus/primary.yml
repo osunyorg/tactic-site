@@ -1,6 +1,30 @@
 ---
-- title: METHODO
-  target: "/methodo/"
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: posts
+  children: []
+- title: Ce que nous faisons
+  target: "/fr/ce-que-nous-faisons/"
   kind: page
+  children:
+  - title: Nos offres
+    target: "/fr/ce-que-nous-faisons/nos-offres/"
+    kind: page
+    children: []
+  - title: Notre méthodo
+    target: "/fr/ce-que-nous-faisons/notre-methodo/"
+    kind: page
+    children: []
+- title: Pourquoi nous le faisons ?
+  target: "/"
+  kind: blank
+  children: []
+- title: Ils nous font confiance
+  target: "/"
+  kind: blank
+  children: []
+- title: Contact / recrutement
+  target: "/"
+  kind: blank
   children: []
 
