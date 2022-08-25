@@ -12,8 +12,8 @@
     kind: page
     children: []
   - title: Notre méthodo
-    target: "/"
-    kind: blank
+    target: "/fr/ce-que-nous-faisons/notre-methodo/"
+    kind: page
     children: []
 - title: Pourquoi nous le faisons ?
   target: "/"
