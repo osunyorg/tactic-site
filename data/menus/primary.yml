@@ -3,7 +3,7 @@
   target: "/"
   kind: blank
   children:
-  - title: METHODO
+  - title: Nos offres
     target: "/fr/nos-offres/"
     kind: page
     children: []
