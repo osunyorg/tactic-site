@@ -1,6 +1,10 @@
 ---
-- title: METHODO
-  target: "/fr/nos-offres/"
-  kind: page
-  children: []
+- title: Ce que nous faisons
+  target: "/"
+  kind: blank
+  children:
+  - title: METHODO
+    target: "/fr/nos-offres/"
+    kind: page
+    children: []
 
