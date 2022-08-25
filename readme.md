@@ -17,7 +17,7 @@ https://github.com/noesya/osuny-hugo-template-aaa
 
 Pour faire la mise à jour :
 ```
-git remote add template git@github.com:noesya/tactic-site.git
+git remote add template git@github.com:noesya/osuny-hugo-template-aaa.git
 git fetch --all
 git merge template/main --allow-unrelated-histories
 ```
