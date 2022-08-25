@@ -23,4 +23,8 @@
   target: "/"
   kind: blank
   children: []
+- title: Contact / recrutement
+  target: "/"
+  kind: blank
+  children: []
 
