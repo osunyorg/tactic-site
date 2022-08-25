@@ -8,7 +8,7 @@
   kind: blank
   children:
   - title: Nos offres
-    target: "/fr/nos-offres/"
+    target: "/fr/ce-que-nous-faisons/nos-offres/"
     kind: page
     children: []
   - title: Notre méthodo
