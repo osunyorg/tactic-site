@@ -1,0 +1,18 @@
+.posts__section
+    .posts
+        @include grid(1)
+        @include grid(2, md)
+.posts__page
+    .blocks > section
+        .container
+            &::before
+                content: none
+.post 
+    .title
+        font-weight: bold
+        font-size: px2rem(30)
+        a
+            text-decoration: none
+    .media
+        &, img
+            aspect-ratio: auto

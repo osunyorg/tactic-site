@@ -12,25 +12,22 @@
     font-weight: 700
     src: url("../fonts/familjen-grotesk/FamiljenGrotesk-Bold.woff2") format("woff2"), url("../fonts/familjen-grotesk/FamiljenGrotesk-Bold.woff") format("woff")
 
-hr
-    background: linear-gradient(90deg, #EAB849 0%, #44D3D3 100%)
+main
+    background-color: $main-background-color
 
-.hero
-    background: linear-gradient(75.96deg, #EA5C1F 0%, #744BFB 100%)
-    picture
-        display: none
-
-h1
-    font-weight: 700
-
-header[role="banner"]
-    .logo 
-        img
-            width: 200px
-            height: auto
-    &.is-sticky
-        .logo
-            filter: invert(1)
-
-    .menu
+.blocks > section:not(.block-pages--cards, .block-timeline--horizontal)
+    margin-bottom: 100px
+    .container
+        &::before
+            content: ""
+            display: block
+            height: 2px         
+            background: linear-gradient(90deg, #EAB849 0%, #44D3D3 100%)
+            margin-bottom: $spacing2
+    h2
+        font-size: px2rem(20)
         font-weight: normal
+        letter-spacing: 2px
+        text-transform: uppercase
+        a
+            text-decoration: none

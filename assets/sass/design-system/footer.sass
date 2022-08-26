@@ -1,0 +1,45 @@
+main
+    margin-bottom: 100vh
+
+footer[role="contentinfo"]
+    background: linear-gradient(75.96deg, #EA5C1F 0%, #744BFB 100%)
+    color: white
+    min-height: 100vh
+    position: fixed
+    top: 0
+    left: 0
+    right: 0
+    bottom: 0
+    z-index: -1
+    .container
+        .content
+            padding-top: 30vh
+            display: flex
+            justify-content: center
+            div
+                display: none
+            div:nth-child(1)
+                display: block
+                margin-bottom: $spacing3
+    .logo
+        img
+            width: 350px
+            height: auto
+    nav
+        display: none
+    a
+        color: white !important
+        padding: $spacing1  !important
+        text-decoration-color: rgba(255, 255, 255, 0.3)
+        &:hover
+            text-decoration-color: white
+    .credit
+        a
+            padding-left: 0 !important
+    .nav-legal
+        display: block
+        li
+            display: inline
+    .complementary
+        width: 100%
+        justify-content: center
