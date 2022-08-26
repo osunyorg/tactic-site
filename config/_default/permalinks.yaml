@@ -1,3 +1,3 @@
 posts:          /actualites/:year/:month/:day/:slug/
-persons:        /ce-que-nous-faisons/equipe/:slug/
-authors:        /ce-que-nous-faisons/equipe/:slug/actualites/
+persons:        /equipe/:slug/
+authors:        /equipe/:slug/actualites/
