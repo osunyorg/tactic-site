@@ -18,7 +18,11 @@
 - title: Pourquoi nous le faisons ?
   target: "/"
   kind: blank
-  children: []
+  children:
+  - title: Qui sommes nous ?
+    target: "/fr/equipe/"
+    kind: page
+    children: []
 - title: Ils nous font confiance
   target: "/"
   kind: blank
