@@ -26,11 +26,7 @@
 - title: Ils nous font confiance
   target: "/"
   kind: blank
-  children:
-  - title: Nos valeurs
-    target: "/"
-    kind: blank
-    children: []
+  children: []
 - title: Contact / recrutement
   target: "/"
   kind: blank
