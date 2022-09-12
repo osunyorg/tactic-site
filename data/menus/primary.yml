@@ -19,6 +19,10 @@
   target: "/fr/pourquoi-nous-le-faisons/"
   kind: page
   children:
+  - title: Nos valeurs
+    target: "/fr/pourquoi-nous-le-faisons/nos-valeurs/"
+    kind: page
+    children: []
   - title: Qui sommes nous ?
     target: "/fr/equipe/"
     kind: page
@@ -30,9 +34,5 @@
 - title: Contact / recrutement
   target: "/"
   kind: blank
-  children: []
-- title: Nos valeurs
-  target: "/fr/pourquoi-nous-le-faisons/nos-valeurs/"
-  kind: page
   children: []
 
