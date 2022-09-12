@@ -35,4 +35,8 @@
   target: "/fr/contact/"
   kind: page
   children: []
+- title: 'Notre écosystème de partenaires et réseaux '
+  target: "/fr/pourquoi-nous-le-faisons/notre-ecosysteme-de-partenaires-et-de-reseaux/"
+  kind: page
+  children: []
 
