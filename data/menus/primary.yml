@@ -28,8 +28,8 @@
     kind: page
     children: []
 - title: Ils nous font confiance
-  target: "/"
-  kind: blank
+  target: "/fr/ils-nous-font-confiance/"
+  kind: page
   children: []
 - title: Contact / recrutement
   target: "/"
