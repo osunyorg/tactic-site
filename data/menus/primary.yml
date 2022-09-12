@@ -16,8 +16,8 @@
     kind: page
     children: []
 - title: Pourquoi nous le faisons ?
-  target: "/"
-  kind: blank
+  target: "/fr/pourquoi-nous-le-faisons/"
+  kind: page
   children:
   - title: Qui sommes nous ?
     target: "/fr/equipe/"
