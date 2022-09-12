@@ -15,7 +15,7 @@
     target: "/fr/ce-que-nous-faisons/notre-methodo/"
     kind: page
     children: []
-- title: Pourquoi nous le faisons ?
+- title: 'Pourquoi nous le faisons '
   target: "/fr/pourquoi-nous-le-faisons/"
   kind: page
   children:
