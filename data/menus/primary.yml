@@ -31,8 +31,8 @@
   target: "/fr/ils-nous-font-confiance/"
   kind: page
   children: []
-- title: Contact / recrutement
-  target: "/"
-  kind: blank
+- title: 'Contact '
+  target: "/fr/contact/"
+  kind: page
   children: []
 
