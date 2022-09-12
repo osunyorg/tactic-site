@@ -31,4 +31,8 @@
   target: "/"
   kind: blank
   children: []
+- title: Nos valeurs
+  target: "/fr/pourquoi-nous-le-faisons/nos-valeurs/"
+  kind: page
+  children: []
 
