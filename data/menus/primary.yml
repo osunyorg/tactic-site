@@ -28,7 +28,7 @@
     kind: page
     children: []
   - title: Qui sommes nous ?
-    target: "/fr/pourquoi-nous-le-faisons/"
+    target: "/fr/pourquoi-nous-le-faisons/qui-sommes-nous/"
     kind: page
     children: []
 - title: Ils nous font confiance
