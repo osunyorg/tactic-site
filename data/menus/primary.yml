@@ -4,7 +4,7 @@
   kind: page
   children:
   - title: Notre méthodologie
-    target: "/fr/ce-que-nous-faisons/notre-methodo/"
+    target: "/fr/ce-que-nous-faisons/nos-offres/"
     kind: page
     children: []
 - title: 'Pourquoi nous le faisons '
