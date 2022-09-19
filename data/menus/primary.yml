@@ -1,8 +1,4 @@
 ---
-- title: Actualités
-  target: "/fr/actualites/"
-  kind: posts
-  children: []
 - title: Ce que nous faisons
   target: "/fr/ce-que-nous-faisons/"
   kind: page
@@ -34,6 +30,10 @@
 - title: Ils nous font confiance
   target: "/fr/ils-nous-font-confiance/"
   kind: page
+  children: []
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: posts
   children: []
 - title: 'Contact '
   target: "/fr/contact/"
