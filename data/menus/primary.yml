@@ -3,10 +3,6 @@
   target: "/fr/ce-que-nous-faisons/"
   kind: page
   children:
-  - title: Nos offres
-    target: "/fr/ce-que-nous-faisons/nos-offres/"
-    kind: page
-    children: []
   - title: Notre méthodologie
     target: "/fr/ce-que-nous-faisons/notre-methodo/"
     kind: page
