@@ -18,12 +18,13 @@ main
 .blocks > section:not(.block-pages--cards, .block-timeline--horizontal)
     margin-bottom: 100px
     .container
-        &::before
-            content: ""
-            display: block
-            height: 2px         
-            background: linear-gradient(90deg, #EAB849 0%, #44D3D3 100%)
-            margin-bottom: $spacing2
+        .block-content
+            &::after
+                content: ""
+                display: block
+                height: 2px
+                background: linear-gradient(90deg, #EAB849 0%, #44D3D3 100%)
+                margin-top: $spacing2
     h2
         font-size: px2rem(20)
         font-weight: normal
