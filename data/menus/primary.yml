@@ -3,12 +3,12 @@
   target: "/fr/ce-que-nous-faisons/"
   kind: page
   children:
-  - title: Audit, analyse & formation
-    target: "/fr/ce-que-nous-faisons/audit-analyse-formation/"
-    kind: page
-    children: []
   - title: Nos offres
     target: "/fr/ce-que-nous-faisons/"
+    kind: page
+    children: []
+  - title: Audit, analyse & formation
+    target: "/fr/ce-que-nous-faisons/audit-analyse-formation/"
     kind: page
     children: []
 - title: Qui nous sommes
