@@ -15,6 +15,10 @@
     target: "/fr/ce-que-nous-faisons/dialogue-parties-prenantes-raison-detre-et-mission/"
     kind: page
     children: []
+  - title: Stratégie RSE
+    target: "/fr/ce-que-nous-faisons/strategie-rse/"
+    kind: page
+    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
