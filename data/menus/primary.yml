@@ -11,6 +11,10 @@
     target: "/fr/ce-que-nous-faisons/audit-analyse-formation/"
     kind: page
     children: []
+  - title: Dialogue parties prenantes raison d’être et mission
+    target: "/fr/ce-que-nous-faisons/dialogue-parties-prenantes-raison-detre-et-mission/"
+    kind: page
+    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
