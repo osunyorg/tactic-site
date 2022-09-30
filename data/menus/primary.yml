@@ -23,6 +23,10 @@
     target: "/fr/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
     kind: page
     children: []
+  - title: Marketing durable
+    target: "/fr/ce-que-nous-faisons/marketing-durable/"
+    kind: page
+    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
