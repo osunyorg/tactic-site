@@ -7,14 +7,6 @@
     target: "/fr/ce-que-nous-faisons/nos-offres/"
     kind: page
     children: []
-- title: 'Pourquoi nous le faisons '
-  target: "/fr/pourquoi-nous-le-faisons/"
-  kind: page
-  children:
-  - title: Nos valeurs
-    target: "/fr/qui-sommes-nous-1/"
-    kind: page
-    children: []
 - title: Ils nous font confiance
   target: "/fr/ils-nous-font-confiance/"
   kind: page
