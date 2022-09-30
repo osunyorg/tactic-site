@@ -19,4 +19,8 @@
   target: "/fr/contact/"
   kind: page
   children: []
+- title: Qui sommes-nous ?
+  target: "/fr/qui-sommes-nous-1/"
+  kind: page
+  children: []
 
