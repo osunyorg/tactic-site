@@ -27,6 +27,10 @@
     target: "/fr/ce-que-nous-faisons/marketing-durable/"
     kind: page
     children: []
+  - title: Communication de l'engagement
+    target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
+    kind: page
+    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
