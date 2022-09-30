@@ -19,6 +19,10 @@
     target: "/fr/ce-que-nous-faisons/strategie-rse/"
     kind: page
     children: []
+  - title: Bilan GES, stratégie et plan d’action
+    target: "/fr/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
+    kind: page
+    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
