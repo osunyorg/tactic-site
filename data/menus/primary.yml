@@ -19,16 +19,16 @@
     target: "/fr/ce-que-nous-faisons/strategie-rse/"
     kind: page
     children: []
+  - title: 'Raison d''être et entreprise à mission '
+    target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
+    kind: page
+    children: []
   - title: Bilan GES, stratégie et plan de transition
     target: "/fr/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
     kind: page
     children: []
   - title: 'Marketing responsable et communication de l''engagement '
     target: "/fr/ce-que-nous-faisons/marketing-durable/"
-    kind: page
-    children: []
-  - title: 'Raison d''être et entreprise à mission '
-    target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
     kind: page
     children: []
 - title: Qui nous sommes
