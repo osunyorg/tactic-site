@@ -48,7 +48,7 @@
   kind: page
   children: []
 - title: 'Label B Corp et certification Ecovadis '
-  target: "/"
-  kind: blank
+  target: "/fr/label-b-corp-et-ecovadis/"
+  kind: page
   children: []
 
