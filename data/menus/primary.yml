@@ -47,4 +47,8 @@
   target: "/fr/contact/"
   kind: page
   children: []
+- title: 'Label B Corp et certification Ecovadis '
+  target: "/"
+  kind: blank
+  children: []
 
