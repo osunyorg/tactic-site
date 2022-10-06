@@ -27,6 +27,10 @@
     target: "/fr/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
     kind: page
     children: []
+  - title: 'Label B Corp et certification Ecovadis '
+    target: "/fr/label-b-corp-et-ecovadis/"
+    kind: page
+    children: []
   - title: 'Marketing responsable et communication de l''engagement '
     target: "/fr/ce-que-nous-faisons/marketing-durable/"
     kind: page
@@ -45,10 +49,6 @@
   children: []
 - title: 'Contact '
   target: "/fr/contact/"
-  kind: page
-  children: []
-- title: 'Label B Corp et certification Ecovadis '
-  target: "/fr/label-b-corp-et-ecovadis/"
   kind: page
   children: []
 
