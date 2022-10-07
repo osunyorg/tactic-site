@@ -1,0 +1,29 @@
+@include media-breakpoint-down(md)
+    main
+        padding-top: 0
+    header[role="banner"]
+        padding-top: 0
+        .navbar
+            .logo
+                padding-top: 15px
+            button
+                color: white !important
+                margin-right: -8px
+        &.is-sticky
+            .navbar
+                button
+                    color: black !important
+    .has-menu-opened
+        header[role="banner"]
+            .navbar
+                background: white
+                height: 100vh
+                .logo
+                    filter: invert(1)
+                a, button
+                    color: black !important
+                .container
+                    .menu
+                        height: 100%
+        .nav-level-2
+            grid-gap: 16px 64px
