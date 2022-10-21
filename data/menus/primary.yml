@@ -47,4 +47,8 @@
   target: "/fr/contact/"
   kind: page
   children: []
+- title: Qui nous sommes
+  target: "/fr/qui-nous-sommes/"
+  kind: persons
+  children: []
 
