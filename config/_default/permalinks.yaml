@@ -1,4 +1,4 @@
 posts:          /actualites/:year/:month/:day/:slug/
-persons:        /equipe/:slug/
+persons:        /qui-nous-sommes/:slug/
 organizations:  /organisations/:slug/
-authors:        /equipe/:slug/actualites/
+authors:        /qui-nous-sommes/:slug/actualites/
