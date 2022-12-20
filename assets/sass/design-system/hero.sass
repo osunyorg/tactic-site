@@ -1,5 +1,12 @@
 .hero
-    background: linear-gradient(75.96deg, #EA5C1F 0%, #744BFB 100%)
+    display: flex
+    align-items: end
+    .container
+        display: flex
+        flex-direction: column-reverse
+        .breadcrumb-nav
+            margin-top: $spacing2
+            margin-bottom: 0
     &::after
         content: ""
         background-image: url("/assets/images/tactic.png")
@@ -10,6 +17,9 @@
         bottom: 0
         position: absolute
         opacity: 0.1
+        pointer-events: none
+
+
 body:not(.persons__page)
     .hero
         picture

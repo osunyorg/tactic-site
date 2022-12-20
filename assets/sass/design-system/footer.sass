@@ -1,7 +1,7 @@
 main
     margin-bottom: 100vh
 
-footer[role="contentinfo"]
+footer#document-footer
     background: linear-gradient(75.96deg, #EA5C1F 0%, #744BFB 100%)
     color: white
     min-height: 100vh
@@ -12,17 +12,15 @@ footer[role="contentinfo"]
     bottom: 0
     z-index: -1
     .container
-        .content
+        text-align: center
+        display: block
+        &:first-of-type
             padding-top: 30vh
-            display: flex
-            justify-content: center
             @include media-breakpoint-down(md)
                 padding-top: 10vh
-            div
-                display: none
-            div:nth-child(1)
-                display: block
-                margin-bottom: $spacing3
+    .footer-legals
+        margin-bottom: $spacing3
+
     .logo
         img
             width: 350px
@@ -37,7 +35,7 @@ footer[role="contentinfo"]
         text-decoration-color: rgba(255, 255, 255, 0.3)
         &:hover
             text-decoration-color: white
-    .credit
+    .footer-credit
         text-align: center
         opacity: 0.7
         margin-top: $spacing3
@@ -47,13 +45,10 @@ footer[role="contentinfo"]
     .nav-legal
         display: block
         li
-            display: inline       
+            display: inline
         @include media-breakpoint-down(md)
             li
                 display: block
                 text-align: center
                 a
                     margin-bottom: -20px
-    .complementary
-        width: 100%
-        justify-content: center
