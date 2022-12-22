@@ -1,54 +1,54 @@
 ---
 - title: Ce que nous faisons
-  target: "/ce-que-nous-faisons/"
+  target: "/fr/ce-que-nous-faisons/"
   kind: page
   children:
   - title: Nos offres
-    target: "/ce-que-nous-faisons/"
+    target: "/fr/ce-que-nous-faisons/"
     kind: page
     children: []
   - title: Audit, analyse & formation
-    target: "/ce-que-nous-faisons/audit-analyse-formation/"
+    target: "/fr/ce-que-nous-faisons/audit-analyse-formation/"
     kind: page
     children: []
   - title: Dialogue parties prenantes et matrice de matérialité
-    target: "/ce-que-nous-faisons/dialogue-parties-prenantes-raison-detre-et-mission/"
+    target: "/fr/ce-que-nous-faisons/dialogue-parties-prenantes-raison-detre-et-mission/"
     kind: page
     children: []
   - title: Stratégie RSE
-    target: "/ce-que-nous-faisons/strategie-rse/"
+    target: "/fr/ce-que-nous-faisons/strategie-rse/"
     kind: page
     children: []
   - title: 'Raison d''être et entreprise à mission '
-    target: "/ce-que-nous-faisons/communication-de-lengagement/"
+    target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
     kind: page
     children: []
   - title: Bilan GES, stratégie et plan de transition
-    target: "/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
+    target: "/fr/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
     kind: page
     children: []
   - title: 'Label B Corp et certification Ecovadis '
-    target: "/ce-que-nous-faisons/label-b-corp-et-ecovadis/"
+    target: "/fr/ce-que-nous-faisons/label-b-corp-et-ecovadis/"
     kind: page
     children: []
   - title: 'Marketing responsable et communication de l''engagement '
-    target: "/ce-que-nous-faisons/marketing-durable/"
+    target: "/fr/ce-que-nous-faisons/marketing-durable/"
     kind: page
     children: []
 - title: Qui nous sommes
-  target: "/qui-nous-sommes/"
+  target: "/fr/qui-nous-sommes/"
   kind: persons
   children: []
 - title: Ils nous font confiance
-  target: "/ils-nous-font-confiance/"
+  target: "/fr/ils-nous-font-confiance/"
   kind: page
   children: []
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: posts
   children: []
 - title: 'Contact '
-  target: "/contact/"
+  target: "/fr/contact/"
   kind: page
   children: []
 

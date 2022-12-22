@@ -4,4 +4,4 @@ baseURL: https://tactic.14septembre.fr
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
