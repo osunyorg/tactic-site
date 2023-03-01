@@ -9,10 +9,6 @@ items:
     target: "/fr/ce-que-nous-faisons/"
     kind: page
     children: []
-  - title: 'Raison d''être et entreprise à mission '
-    target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
-    kind: page
-    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
