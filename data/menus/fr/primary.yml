@@ -2,27 +2,27 @@
 title: Primary
 items:
 - title: Ce que nous faisons
-  target: "/fr/ce-que-nous-faisons/"
+  target: "/ce-que-nous-faisons/"
   kind: page
   children:
   - title: Nos offres
-    target: "/fr/ce-que-nous-faisons/"
+    target: "/ce-que-nous-faisons/"
     kind: page
     children: []
 - title: Qui nous sommes
-  target: "/fr/qui-nous-sommes/"
+  target: "/qui-nous-sommes/"
   kind: page
   children: []
 - title: Ils nous font confiance
-  target: "/fr/ils-nous-font-confiance/"
+  target: "/ils-nous-font-confiance/"
   kind: page
   children: []
 - title: Actualités
-  target: "/fr/actualites/"
+  target: "/actualites/"
   kind: page
   children: []
 - title: 'Contact '
-  target: "/fr/contact/"
+  target: "/contact/"
   kind: page
   children: []
 
