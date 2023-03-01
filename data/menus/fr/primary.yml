@@ -13,18 +13,6 @@ items:
     target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
     kind: page
     children: []
-  - title: Bilan GES, stratégie et plan de transition
-    target: "/fr/ce-que-nous-faisons/bilan-ges-strategie-et-plan-daction/"
-    kind: page
-    children: []
-  - title: 'Label B Corp et certification Ecovadis '
-    target: "/fr/ce-que-nous-faisons/label-b-corp-et-ecovadis/"
-    kind: page
-    children: []
-  - title: 'Marketing responsable et communication de l''engagement '
-    target: "/fr/ce-que-nous-faisons/marketing-durable/"
-    kind: page
-    children: []
 - title: Qui nous sommes
   target: "/fr/qui-nous-sommes/"
   kind: page
