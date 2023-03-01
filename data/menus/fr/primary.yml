@@ -9,10 +9,6 @@ items:
     target: "/fr/ce-que-nous-faisons/"
     kind: page
     children: []
-  - title: 'Stratégie RSE, plan d''action et reporting '
-    target: "/fr/ce-que-nous-faisons/strategie-rse/"
-    kind: page
-    children: []
   - title: 'Raison d''être et entreprise à mission '
     target: "/fr/ce-que-nous-faisons/communication-de-lengagement/"
     kind: page
