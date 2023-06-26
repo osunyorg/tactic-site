@@ -1,0 +1,115 @@
+main
+    margin-bottom: 100vh
+    background-color: $color-background
+
+header#document-header
+    border-bottom: 0
+    .logo 
+        img
+            width: 200px
+            height: auto
+    .menu
+        font-weight: normal
+        li > a, 
+        li span
+            font-weight: normal
+
+footer#document-footer
+    background: linear-gradient(75.96deg, #EA5C1F 0%, #744BFB 100%)
+    color: white
+    min-height: 100vh
+    position: fixed
+    top: 0
+    left: 0
+    right: 0
+    bottom: 0
+    z-index: -1
+    .container
+        text-align: center
+        display: block
+        &:first-of-type
+            padding-top: 30vh
+            @include media-breakpoint-down(md)
+                padding-top: 10vh
+    .footer-legals
+        margin-bottom: $spacing3
+
+    .logo
+        img
+            width: 350px
+            height: auto
+            @include media-breakpoint-down(md)
+                width: 200px
+    nav
+        display: none
+    a
+        color: white !important
+        padding: $spacing1  !important
+        text-decoration-color: rgba(255, 255, 255, 0.3)
+        &:hover
+            text-decoration-color: white
+    .footer-credit
+        text-align: center
+        opacity: 0.7
+        margin-top: $spacing3
+        a
+            padding-left: 0 !important
+            padding-right: 0 !important
+    .nav-legal
+        display: block
+        li
+            display: inline
+        @include media-breakpoint-down(md)
+            li
+                display: block
+                text-align: center
+                a
+                    margin-bottom: -20px
+
+.hero
+    &::before
+        content: ""
+        background-image: url("/assets/images/tactic.png")
+        background-size: 200px
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        position: absolute
+        opacity: 0.1
+        pointer-events: none
+
+
+@include media-breakpoint-down(md)
+    main
+        padding-top: 0
+    header[role="banner"]
+        padding-top: 0
+        .navbar
+            .logo
+                padding-top: 15px
+            button
+                color: white !important
+                margin-right: -8px
+        &.is-sticky
+            .navbar
+                button
+                    color: black !important
+    .has-menu-opened
+        header[role="banner"]
+            .navbar
+                background: white
+                height: 100vh
+                .logo
+                    filter: invert(1)
+                a, button
+                    color: black !important
+                .container
+                    .menu
+                        height: 100%
+        .nav-level-2
+            grid-gap: 16px 64px
+
+.lead,
+.block-pages--list .description
+    font-weight: normal !important
