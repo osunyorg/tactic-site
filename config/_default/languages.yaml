@@ -11,9 +11,9 @@ fr:
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /qui-nous-sommes/:slug/
-    persons_categories: /qui-nous-sommes/:slug/
+    persons_categories: /qui-nous-sommes/categories/:slug/
     authors: /qui-nous-sommes/:slug/actualites/
   taxonomies:
     administrator: administrators
