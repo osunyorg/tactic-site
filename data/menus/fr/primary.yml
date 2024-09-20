@@ -4,11 +4,7 @@ items:
 - title: Ce que nous faisons
   target: "/ce-que-nous-faisons/"
   kind: page
-  children:
-  - title: Nos offres
-    target: "/ce-que-nous-faisons/"
-    kind: page
-    children: []
+  children: []
 - title: Qui nous sommes
   target: "/qui-nous-sommes/"
   kind: page
