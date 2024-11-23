@@ -15,6 +15,7 @@ fr:
     organizations_categories: /organisations/categories/:slug/
     persons: /qui-nous-sommes/:slug/
     persons_categories: /qui-nous-sommes/categories/:slug/
+    authors: /qui-nous-sommes/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
