@@ -5,20 +5,25 @@ items:
   target: "/ce-que-nous-faisons/"
   kind: page
   children: []
+  file: content/fr/pages/ce-que-nous-faisons/_index.html
 - title: Qui nous sommes
   target: "/qui-nous-sommes/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 - title: Ils nous font confiance
   target: "/ils-nous-font-confiance/"
   kind: page
   children: []
+  file: content/fr/pages/ils-nous-font-confiance/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: 'Contact '
   target: "/contact/"
   kind: page
   children: []
+  file: content/fr/pages/contact/_index.html
 
