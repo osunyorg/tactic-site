@@ -4,30 +4,35 @@ items:
 - title: Ce que nous faisons
   target: "/ce-que-nous-faisons/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/ce-que-nous-faisons"
   file: content/fr/pages/ce-que-nous-faisons/_index.html
 - title: Qui nous sommes
   target: "/qui-nous-sommes/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Ils nous font confiance
   target: "/ils-nous-font-confiance/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/ils-nous-font-confiance"
   file: content/fr/pages/ils-nous-font-confiance/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: 'Contact '
   target: "/contact/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
