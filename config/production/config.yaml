@@ -2,6 +2,11 @@
 
 baseURL: https://tactic.14septembre.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 034dcc89-0936-460a-95e2-d43243e3ea03
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
