@@ -2,38 +2,48 @@
 title: Primary
 items:
 - title: Ce que nous faisons
+  slug: ce-que-nous-faisons
   target: "/ce-que-nous-faisons/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/ce-que-nous-faisons"
   file: content/fr/pages/ce-que-nous-faisons/_index.html
 - title: Qui nous sommes
+  slug: qui-nous-sommes
   target: "/qui-nous-sommes/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Ils nous font confiance
+  slug: ils-nous-font-confiance
   target: "/ils-nous-font-confiance/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/ils-nous-font-confiance"
   file: content/fr/pages/ils-nous-font-confiance/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: 'Contact '
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
